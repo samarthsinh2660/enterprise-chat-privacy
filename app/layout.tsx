@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: 'Privacy Policy - Enterprise Chat Application',
   description: 'Privacy Policy and Terms of Service for Enterprise Chat Application by New Info Tech',
   keywords: 'privacy policy, enterprise chat, secure messaging, business communication',
+  icons: {
+    icon: '/app-icon.png',
+    apple: '/app-icon.png',
+  },
 };
 
 export default function RootLayout({

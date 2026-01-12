@@ -32,7 +32,7 @@ export default function HomePage() {
           <h2 className="text-2xl font-bold text-primary mb-4">1. Overview</h2>
           <div className="bg-white rounded-lg shadow-sm p-6 space-y-4">
             <p>
-              This Privacy Policy describes how <strong>New Info Tech</strong> (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, 
+              This Privacy Policy describes how <strong>NewTech InfoSoft Pvt. Ltd.</strong> (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, 
               and protects information when you use the <strong>Enterprise Chat Application</strong> (&quot;the App&quot;).
             </p>
             <p>
@@ -437,10 +437,10 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="text-lg font-semibold mb-2">Enterprise Chat Application</p>
           <p className="text-gray-400 text-sm mb-4">
-            Developed by <a href="https://newtechinfosoft.com" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">New Info Tech</a>
+            Developed by <a href="https://newtechinfosoft.com" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">NewTech InfoSoft Pvt. Ltd.</a>
           </p>
           <p className="text-gray-500 text-xs">
-            © {new Date().getFullYear()} New Info Tech. All rights reserved.
+            © {new Date().getFullYear()} NewTech InfoSoft Pvt. Ltd. All rights reserved.
           </p>
           <div className="mt-4 flex justify-center gap-6 text-sm">
             <a href="/privacy-policy" className="text-gray-400 hover:text-white">Privacy Policy</a>
