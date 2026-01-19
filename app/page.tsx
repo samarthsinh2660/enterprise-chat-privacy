@@ -401,14 +401,8 @@ export default function HomePage() {
                 <h3 className="text-lg font-bold text-secondary mb-4">Privacy Inquiries</h3>
                 <div className="space-y-3 text-gray-700">
                   <p className="flex items-center gap-3">
-                    <span className="text-secondary">📧</span>
-                    <a href="mailto:privacy@newtechinfosoft.com" className="text-secondary hover:underline">
-                      privacy@newtechinfosoft.com
-                    </a>
-                  </p>
-                  <p className="flex items-center gap-3">
                     <span className="text-secondary">👤</span>
-                    <span>Data Protection Officer: Niraj Shah</span>
+                    <span>Owner: Niraj Shah</span>
                   </p>
                   <p className="text-sm text-gray-500 mt-4">
                     For privacy-related inquiries, we aim to respond within 48 business hours.
